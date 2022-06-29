@@ -1,4 +1,4 @@
-# frontend-instagram
+# frontend-rocketNFT
 <h2>Challenge frontend design for RocketNFT</h2>
 
 <h2>Responsive Page</h2>
